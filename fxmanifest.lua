@@ -11,3 +11,7 @@ client_scripts {
     "handling.lua", 
     "client.lua" 
 }
+
+exports {
+    'GetVehicleMode',
+}
